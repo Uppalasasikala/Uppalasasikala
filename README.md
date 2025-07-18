@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppalasasikala&label=Profile%20views&color=0e75b6&style=flat" alt="uppalasasikala" /> </p>
 
-- 🔭 I’m currently working on **Leave Application System for AP Police Department**
+- 🔭 I’m currently working on **Advanced Backend Systems**
 
 - 🌱 I’m currently learning **AI Essentials and AI workflows**
 
